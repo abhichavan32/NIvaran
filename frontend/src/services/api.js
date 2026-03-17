@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://clean-days-tease.loca.lt/api';
+const API_BASE_URL = 'https://civic-backend-7q3k.onrender.com/api';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
