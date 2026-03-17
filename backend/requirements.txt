@@ -11,3 +11,6 @@ numpy==1.26.2
 pandas==1.5.3
 drf-yasg==1.21.7
 python-dotenv==1.0.0
+gunicorn==21.2.0
+whitenoise==6.4.0
+
